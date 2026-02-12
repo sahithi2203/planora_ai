@@ -1,0 +1,7 @@
+{
+  "name": "Planora",
+  "description": "Your AI-powered lifestyle and travel architect. Plan trips, discover local gems, and explore the world with intelligent reasoning and real-time mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
